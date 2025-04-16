@@ -17,7 +17,7 @@ sidebar:
 
 ## 快速进入
 
-{{< cards cols="3" >}}
+{{< cards cols="4" >}}
   {{< card link="../event/1986/" title="📁 1986年活动" >}}
   {{< card link="../event/1987/" title="📁 1987年活动" >}}
   {{< card link="../event/1988/" title="📁 1988年活动" >}}
@@ -59,6 +59,13 @@ sidebar:
   {{< card link="../event/2024/" title="📁 2024年活动" >}}
   {{< card link="../event/2025/" title="📁 2025年活动" >}}
 {{< /cards >}}
+
+## 前往其他频道
+{{< hextra/hero-button text="📺 电视节目" link="../show" >}}
+{{< hextra/hero-button text="🎻 音乐" link="../music" >}}
+<br><br>
+{{< hextra/hero-button text="📽️ 影视剧" link="../film" >}}
+{{< hextra/hero-button text="📚 文章" link="../article" >}}
 
 ## 有疑问或补充？
 

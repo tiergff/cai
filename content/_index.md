@@ -1,0 +1,64 @@
+---
+title: 首页
+layout: hextra-home
+---
+
+{{< hextra/hero-badge >}}
+  <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
+  <span>资料收集于网络</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-headline >}}
+  有史以来最全的<br>蔡国庆资料库
+{{< /hextra/hero-headline >}}
+</div>
+
+<div class="hx-mb-12">
+{{< hextra/hero-subtitle >}}
+  你们快快转载吧！<br>蔡国庆都成资源黑洞了！
+{{< /hextra/hero-subtitle >}}
+</div>
+
+<div class="hx-mb-12">
+{{< hextra/hero-button text="📁 活动" link="event" >}}
+{{< hextra/hero-button text="📁 电视节目" link="show" >}}
+{{< hextra/hero-button text="📁 音乐" link="music" >}}
+<br><br>
+{{< hextra/hero-button text="📁 影视剧" link="film" >}}
+{{< hextra/hero-button text="📁 文章" link="article" >}}
+</div>
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="🎙️ 活动"
+    subtitle="蔡老师从业这么多年参加的国内外各种晚会、商演、慰问演出、校园演讲等活动。"
+    link="event"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,50,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="📺 电视节目"
+    subtitle="在中央和各地方电视台播出的新闻、访谈、综艺、以及一些节假日的特别节目。"
+    link="show"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(200,75,25,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="🎻 音乐"
+    subtitle="从1986年至今蔡老师唱过的歌，包括发行过的、未发行的、未知来源出处的歌曲。"
+    link="music"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="📽️ 影视剧"
+    subtitle="包括蔡老师主演、客串、友情出演的各种电影、电视剧、音乐特辑、纪录片、广告、MTV等等视频。"
+    link="film"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(110,210,59,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="📚 文章"
+    subtitle="蔡老师出版的写真集、书籍、发表的期刊、节目文字稿等等。"
+    link="article"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(50,100,205,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}

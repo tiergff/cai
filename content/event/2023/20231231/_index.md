@@ -34,7 +34,7 @@ date: 2025-04-13
 <hr>
 <br>
 
-{{< hextra/hero-button text="◀ 返回2023年度活动表 ▶ " link="/" >}}
+{{< hextra/hero-button text="◀ 返回2023年度活动表 ▶ " link="../" >}}
 
 
 

@@ -8,10 +8,17 @@
   {{- $id = .Get 0 }}
 {{- end }}
 
+
+<div style="margin: 5px 0; font-size: 0.9em; color: gray">
+  <span>本视频一切权利归 <strong>优酷</strong> 及 <strong>原作者所有。</strong>如果觉得好，请点击跳转到 <a href="https://v.youku.com/video?vid={{ $id }}%3D%3D"> <strong>优酷</strong></a> 给予支持。</span>
+</div>
+
+
 {{- $src := printf
   "https://player.youku.com/embed/%s"
   $id
 }}
+
 <iframe
   height="480"
   width="100%"

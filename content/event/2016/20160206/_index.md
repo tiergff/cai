@@ -29,6 +29,14 @@ date: 2025-04-23
 
 {{< tencentvideo j00191v708p >}}
 
+<br>
+<hr>
+<br>
+
+### 2015公安特别节目——忠诚的足迹
+**《祖国万岁》[（点击前往CCTV观看高清视频）](https://tv.cctv.cn/2016/02/09/VIDEMf11gw2RMRBf5JfiuBdy160209.shtml)**
+
+{{< video-js src="https://hls.cntv.lxdns.com/asp/hls/main/0303000a/3/default/fbaf91212514477cb9a8de53697384b6/main.m3u8?maxbr=2048" type="application/x-mpegURL" >}}
 
 <br>
 <hr>

@@ -8,7 +8,7 @@ date: 2025-05-15
 
 <br>
 
-{{< video-js src="https://mvwebfs.kugou.com/202505151848/8e13db161f06b4f83f730bf8f5e77575/v2/3bb3641beedada49f04fc249875f1d6b/G096/M06/05/0B/oA0DAFuxWC6AT78uAmawIDLJ4tg568.mp4" >}}
+{{< bilibili BV1SrE2z1EXj >}}
 
 
 <br>

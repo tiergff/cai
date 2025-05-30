@@ -9,13 +9,13 @@ sidebar:
 
 <!--more-->
 
-## 如何食用？
+### 如何食用？
 
 电脑端：左侧是目录，点击查看详情。
 
 手机端：直接点击下方**快速进入**，到具体年份里查看。
 
-## 快速进入
+### 快速进入
 
 {{< cards cols="4" >}}
   {{< card link="../event/1986/" title="1986年活动" icon="archive" >}}
@@ -60,14 +60,14 @@ sidebar:
   {{< card link="../event/2025/" title="2025年活动" icon="archive" >}}
 {{< /cards >}}
 
-## 前往其他频道
+### 前往其他频道
 {{< hextra/hero-button text="📺 电视节目" link="../show" >}}
 {{< hextra/hero-button text="🎻 音乐" link="../music" >}}
 <br><br>
 {{< hextra/hero-button text="📽️ 影视剧" link="../film" >}}
 {{< hextra/hero-button text="📚 文章" link="../article" >}}
 
-## 有疑问或补充？
+### 有疑问或补充？
 
 请到公众号  **蔡哥哥的果汁家**  留言，扫描下方二维码打开公众号。
 

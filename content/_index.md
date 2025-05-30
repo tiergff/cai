@@ -52,4 +52,10 @@ layout: hextra-home
     link="article"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(50,100,205,0.15),hsla(0,0%,100%,0));"
   >}}
+  {{< hextra/feature-card
+    title="📚 关于（点击进入）"
+    subtitle="简单介绍一下资料站，还有资料站与小程序、公众号如何联用。"
+    link="about"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(100,255,255,0.15),hsla(0,0%,100%,0));"
+  >}}
 {{< /hextra/feature-grid >}}

@@ -1,7 +1,7 @@
 ---
 title: 关于资料库
 weight: 8
-toc: false
+toc: true
 ---
 
 
@@ -31,7 +31,7 @@ toc: false
 如有侵权请于本站站长联系，站长收到通知后会在第一时间删除侵权内容！<br>
 <br>
 **联系方式：**
-* 站长微博[@Tiergff](https://weibo.com/u/1715034620)，点击[**链接**](https://weibo.com/u/1715034620)跳转。
+* 站长微博[@Tiergff](https://weibo.com/u/1715034620)，点击[链接](https://weibo.com/u/1715034620)跳转。
 * 可以到公众号中留言，二维码在下方，扫描图片打开公众号。
 {{< /callout >}}
 

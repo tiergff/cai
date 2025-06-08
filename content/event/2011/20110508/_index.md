@@ -7,7 +7,7 @@ date: 2025-06-07
 
 ### 《爱的世界》
 
-{{< bilibili BV13KT2znEGG>}}
+{{< bilibili BV13KT2znEGG >}}
 
 
 <br>

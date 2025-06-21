@@ -8,6 +8,9 @@ date: 2025-06-07
 
 {{< bilibili BV1eW54zQEFH 1 >}}
 
+### 爱丁堡采访视频
+
+{{< bilibili BV1eW54zQEFH 15 >}}
 
 <br>
 <hr>

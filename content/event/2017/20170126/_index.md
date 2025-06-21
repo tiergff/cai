@@ -39,7 +39,7 @@ date: 2025-04-20
 ### 春满东方欢笑中国·2017年东方卫视鸡年春节联欢晚会
 **《一剪梅》**
 
-{{< video-js src="https://mv6.music.tc.qq.com/843E3D095C39F3806C7E5DDAFD26BD329206D9495A939C205E5E9951224851323BDAFD31E190B2C14A1CA34B48BFE5BAZZqqmusic_default__v21ea0f986/qmmv_0b6bliaaaaaaiqanlprg6bqviwqaabnaaaca.f9934.m3u8" type="application/x-mpegURL" >}}
+{{< bilibili BV1fb411G71b >}}
 
 
 **《当你老了》**

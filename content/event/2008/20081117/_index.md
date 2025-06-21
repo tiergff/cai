@@ -1,0 +1,16 @@
+---
+title: 2008中国广州（增城）广场音乐节开幕文艺晚会
+weight: 37
+date: 2025-06-20
+---
+
+### 《难忘今宵》
+
+{{< youku "XODYzNjQ4ODQ=" >}}
+
+
+<br>
+<hr>
+<br>
+
+{{< hextra/hero-button text="◀ 返回2008年度活动表 ▶ " link="../" >}}

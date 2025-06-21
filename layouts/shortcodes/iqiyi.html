@@ -1,13 +1,36 @@
-{{- $vID := .Get 0 -}}
-{{- $tvID := .Get 1 -}}
-{{- $accessToken := "2.ef9c39d6c7f1d5b44768e38e5243157d" -}}
-{{- $appID := "1368" -}}
-{{- $appKey := "8c634248790d4343bcae1f66129c1010" -}}
-{{- $srcFormat := "https://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=%s&tvId=%s&accessToken=%s&appId=%s&appKey=%s" -}}
+<!DOCTYPE HTML>
+<html>
+
+  <head>
+    <!-- style 样式 是为了让网页上的视频框按比例显示而非固定的大小 -->
+    <style type="text/css">
+      .ratio {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 75%;
+      }
+
+      .ratio iframe {
+        position: absolute;
+        width: 100%;
+        height: 102%;
+        left: 0;
+        top: 0;
+      }
+    </style>
+  </head>
+</html>
+
+<div style="margin: 5px 0; font-size: 0.9em; color: gray">
+    <span>本视频一切权利归 <strong>爱奇艺</strong> 及 <strong>原作者</strong> 所有。如果觉得好，请点击跳转到 <a href="https://www.iqiyi.com/"> <strong>爱奇艺</strong></a> 给予支持。如无法打开视频，请点击 <a href="https://www.iqiyi.com/"><strong>这里</strong></a> </strong>跳转到爱奇艺观看。</span>
+</div>
+
+
 <div class="ratio ratio-16x9 iqiyi mb-4">
   <iframe
     class="iqiyi-iframe"
-    src="{{ printf $srcFormat $vID $tvID $accessToken $appID $appKey }}"
+    src="//www.iqiyi.com/shareplayer.html?save_type=1&vid={{.Get 0}}&tvId={{.Get 1}}&sign=62abbad340795430802365808bbb48deea9afbe508944506f1c1376815adc77a&appKey=a1ffbf1835b846098b6241e5be0b1b0d&appId=1203&autoChainPlay=0&showRecommend=0&showPVRecommend=0&autoplay=0&fullscreen=1&showPVNews=0"
     allowfullscreen
     loading="lazy">
   </iframe>

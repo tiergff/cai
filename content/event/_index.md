@@ -61,11 +61,12 @@ sidebar:
 {{< /cards >}}
 
 ### 前往其他频道
-{{< hextra/hero-button text="📺 电视节目" link="../show" >}}
-{{< hextra/hero-button text="🎻 音乐" link="../music" >}}
-<br><br>
+<br>
+<!-- {{< hextra/hero-button text="📺 电视节目" link="../show" >}} -->
 {{< hextra/hero-button text="📽️ 影视剧" link="../film" >}}
-{{< hextra/hero-button text="📚 文章" link="../article" >}}
+{{< hextra/hero-button text="🎻 音乐" link="../music" >}}
+<!-- {{< hextra/hero-button text="📚 文章" link="../article" >}} -->
+{{< hextra/hero-button text="👋 关于" link="../about" >}}
 
 ### 有疑问或补充？
 

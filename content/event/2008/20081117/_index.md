@@ -6,7 +6,7 @@ date: 2025-06-20
 
 ### 《难忘今宵》
 
-{{< youku "XODYzNjQ4ODQ=" >}}
+{{< bilibili BV1B8NCzJEMa >}}
 
 
 <br>

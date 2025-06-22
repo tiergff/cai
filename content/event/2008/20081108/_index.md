@@ -6,7 +6,7 @@ date: 2025-06-20
 
 ### 《美好如梦》
 
-{{< youku "XNTgxMTY4MDA=" >}}
+{{< bilibili BV16KNyzREBN >}}
 
 
 <br>

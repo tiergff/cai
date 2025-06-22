@@ -6,16 +6,13 @@ date: 2025-06-20
 
 ### 《美好如梦》
 
-{{< youku "XMTMzMzUzNzgw" >}}
+{{< bilibili BV1xdNCzaEut 1 >}}
 
 
-<br>
-<hr>
-<br>
 
 ### 《不能没有你》
 
-{{< youku "XMTMzMzU1MTY0" >}}
+{{< bilibili BV1xdNCzaEut 2 >}}
 
 
 <br>

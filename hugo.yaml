@@ -64,22 +64,22 @@ menu:
       name: 活动
       pageRef: /event
       weight: 1
-    - identifier: show
-      name: 电视节目
-      pageRef: /show
-      weight: 2
-    - identifier: music
-      name: 音乐
-      pageRef: /music
-      weight: 3
+    # - identifier: show
+    #   name: 电视节目
+    #   pageRef: /show
+    #   weight: 2
     - identifier: film
       name: 影视剧
       pageRef: /film
+      weight: 3
+    - identifier: music
+      name: 音乐
+      pageRef: /music
       weight: 4
-    - identifier: book
-      name: 文章
-      pageRef: /article
-      weight: 5
+    # - identifier: book
+    #   name: 文章
+    #   pageRef: /article
+    #   weight: 5
     - identifier: about
       name: 关于
       pageRef: /about

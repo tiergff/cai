@@ -18,11 +18,12 @@ sidebar:
 手机端：点击右上角菜单键打开目录，点击查看详情。
 
 ### 前往其他频道
+<br>
 {{< hextra/hero-button text="🎙️ 活动" link="../event" >}}
-{{< hextra/hero-button text="📺 电视节目" link="../show" >}}
-<br><br>
+<!-- {{< hextra/hero-button text="📺 电视节目" link="../show" >}} -->
 {{< hextra/hero-button text="📽️ 影视剧" link="../film" >}}
-{{< hextra/hero-button text="📚 文章" link="../article" >}}
+<!-- {{< hextra/hero-button text="📚 文章" link="../article" >}} -->
+{{< hextra/hero-button text="👋 关于" link="../about" >}}
 
 ### 有疑问或补充？
 

@@ -6,7 +6,7 @@ date: 2025-06-19
 
 ### 《同一首歌》
 
-{{< youku XMjY0MjM5Mjk2 >}}
+{{< bilibili BV1SDN1zCEC7 >}}
 
 <br>
 <hr>

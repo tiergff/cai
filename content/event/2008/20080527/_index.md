@@ -6,9 +6,7 @@ date: 2025-06-20
 
 ### 《亲爱的小孩》
 
-**此为完整版视频，蔡老师的节目在22分50秒。**
-
-{{< youku "XNTQzNDU3NzY=" >}}
+{{< bilibili BV1tQNCzNEVt >}}
 
 
 

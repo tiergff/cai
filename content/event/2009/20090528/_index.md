@@ -6,7 +6,7 @@ date: 2025-06-20
 
 ### 《爱的世界》《不能没有你》《三百六十五个祝福》《一二三四五六七》
 
-{{< youku "XOTQ2ODk1MjA=" >}}
+{{< bilibili BV17jN2zdEvE >}}
 
 
 

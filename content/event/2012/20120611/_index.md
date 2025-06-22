@@ -6,7 +6,7 @@ date: 2025-05-29
 
 ### 《感动中国》
 
-{{< youku XNDExNzIwMzky >}}
+{{< tencentvideo q0010xNePHv >}}
 
 
 <br>

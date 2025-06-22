@@ -8,6 +8,12 @@ date: 2025-04-17
 **《未来已来》**
 {{< video-js src="http://vv.chinamil.com.cn/asset/category3/2018/02/14/asset_314054.mp4" >}}
 
+
+**完整版[（点击前往CCTV观看高清视频）](https://tv.cctv.com/2018/02/19/VIDEhWof0ywlXBXR7g3qkPk9180219.shtml)，蔡老师的节目在1小时08分55秒处。**
+
+{{< video-js src="https://hls.cntv.lxdns.com/asp/hls/main/0303000a/3/default/1676c9d4626c41de94a7527c975b4866/main.m3u8?maxbr=2048" type="application/x-mpegURL" >}}
+
+
 <br>
 <hr>
 <br>

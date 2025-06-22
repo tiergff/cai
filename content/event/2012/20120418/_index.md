@@ -8,10 +8,6 @@ date: 2025-05-30
 
 ![](https://www.pingli.gov.cn/UploadFiles/akjyhfj67/uploadfile/jpg/2012-4/201241815728850.jpg)
 
-### 完整视频
-
-{{< youku "XNDIzNzAwODM2" >}}
-
 
 <br>
 <hr>

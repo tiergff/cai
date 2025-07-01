@@ -18,9 +18,7 @@ sidebar:
 ### 快速进入
 
 {{< cards cols="4" >}}
-  {{< card link="../event/1986/" title="1986年活动" icon="archive" >}}
-  {{< card link="../event/1987/" title="1987年活动" icon="archive" >}}
-  {{< card link="../event/1988/" title="1988年活动" icon="archive" >}}
+  {{< card link="../event/1986-1988/" title="1986-1988年活动" icon="archive" >}}
   {{< card link="../event/1989/" title="1989年活动" icon="archive" >}}
   {{< card link="../event/1990/" title="1990年活动" icon="archive" >}}
   {{< card link="../event/1991/" title="1991年活动" icon="archive" >}}

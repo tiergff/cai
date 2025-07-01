@@ -12,4 +12,4 @@ date: 2025-06-22
 <hr>
 <br>
 
-{{< hextra/hero-button text="◀ 返回2007年度活动表 ▶ " link="../" >}}
+{{< hextra/hero-button text="◀ 返回2006年度活动表 ▶ " link="../" >}}

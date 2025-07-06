@@ -6,6 +6,8 @@ date: 2025-04-15
 
 ### 情景表演联唱《峥嵘岁月》：《少年壮志不言愁》[（点击前往CCTV观看高清视频）](https://tv.cctv.com/2021/01/17/VIDEBqzYg13865ltaOlVjFqz210117.shtml)
 
+<br>
+
 {{< video-js src="https://hls.cntv.lxdns.com/asp/hls/main/0303000a/3/default/a0b19c1a6c294647ae1b9d4631c380b7/main.m3u8?maxbr=2048" type="application/x-mpegURL" >}}
 
 

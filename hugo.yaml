@@ -108,9 +108,9 @@ params:
   # description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   video_js:
-    css_url: https://cdnjs.cloudflare.com/ajax/libs/video.js/8.22.0/video-js.min.css
-    js_url: https://cdnjs.cloudflare.com/ajax/libs/video.js/8.22.0/video.min.js
-    lang_js_url: https://cdnjs.cloudflare.com/ajax/libs/video.js/8.22.0/lang/%s.js
+    css_url: https://cdnjs.cloudflare.com/ajax/libs/video.js/8.23.3/video-js.min.css
+    js_url: https://cdnjs.cloudflare.com/ajax/libs/video.js/8.23.3/video.min.js
+    lang_js_url: https://cdnjs.cloudflare.com/ajax/libs/video.js/8.23.3/lang/%s.js
     playback_rates:
     - 0.5
     - 1

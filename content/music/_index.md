@@ -1,6 +1,6 @@
 ---
 title: 🎻 音乐
-weight: 3
+weight: 4
 sidebar:
   exclude: false
 ---

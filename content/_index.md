@@ -9,36 +9,44 @@ layout: hextra-home
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
+{{< hextra/hero-container
+  image="../horse.svg"
+>}}
+
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  有史以来最全的<br>蔡国庆资料库
+  有史以来最全的蔡国庆资料库
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  你们快快转载吧！<br>蔡国庆都成资源黑洞了！
+  你们快快转载吧！<br>蔡国庆都成资源黑洞了！<br>这里有最全的历史资料！
 {{< /hextra/hero-subtitle >}}
 </div>
+
+{{< /hextra/hero-container >}}
+
+<br><br>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="🎙️ 活动（点击进入）"
-    subtitle="蔡老师从业这么多年参加的国内外各种晚会、商演、慰问演出、校园演讲等活动。"
+    subtitle="蔡老师从业这么多年参加的国内外各种晚会、商演、慰问演出、校园演讲等活动视频。"
     link="event"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,50,254,0.15),hsla(0,0%,100%,0));"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(225,100,25,0.15),hsla(0,0%,100%,0));"
   >}}
   <!-- {{< hextra/feature-card
     title="📺 电视节目（点击进入）"
     subtitle="在中央和各地方电视台播出的新闻、访谈、综艺、以及一些节假日的特别节目。"
     link="show"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(200,75,25,0.15),hsla(0,0%,100%,0));"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,50,254,0.15),hsla(0,0%,100%,0));"
   >}} -->
   {{< hextra/feature-card
     title="📽️ 影视剧（点击进入）"
     subtitle="包括蔡老师出演的电影、电视剧、音乐特辑、纪录片、广告、MTV等视频。"
     link="film"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(235,200,59,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
     title="🎻 音乐（点击进入）"

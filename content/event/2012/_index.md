@@ -3,6 +3,8 @@ title: 🏷️ 2012年活动
 weight: 27
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

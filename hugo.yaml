@@ -121,8 +121,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
+      path: ../favicon.svg
+      dark: ../favicon-dark.svg
       # width: 40
       # height: 20
       # link: /
@@ -134,7 +134,7 @@ params:
 
   theme:
     # light | dark | system
-    default: system
+    default: light
     displayToggle: true
 
   footer:
@@ -166,7 +166,7 @@ params:
 
   blog:
     list:
-      displayTags: true
+      displayTags: false
       # date | lastmod | publishDate | title | weight
       sortBy: date
       sortOrder: desc # or "asc"

@@ -3,6 +3,8 @@ title: 🏷️ 2015年活动
 weight: 30
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

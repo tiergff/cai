@@ -3,6 +3,8 @@ title: 🏷️ 1993年活动
 weight: 8
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

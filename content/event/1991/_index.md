@@ -3,6 +3,8 @@ title: 🏷️ 1991年活动
 weight: 6
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

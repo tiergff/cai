@@ -3,6 +3,8 @@ title: 🏷️ 2010年活动
 weight: 25
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

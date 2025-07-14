@@ -3,6 +3,8 @@ title: 🏷️ 2009年活动
 weight: 24
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

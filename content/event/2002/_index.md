@@ -3,6 +3,8 @@ title: 🏷️ 2002年活动
 weight: 17
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

@@ -3,6 +3,8 @@ title: 🏷️ 2023年活动
 weight: 38
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

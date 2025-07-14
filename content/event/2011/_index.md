@@ -3,6 +3,8 @@ title: 🏷️ 2011年活动
 weight: 26
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

@@ -3,6 +3,8 @@ title: 🏷️ 1999年活动
 weight: 14
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

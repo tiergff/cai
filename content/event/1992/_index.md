@@ -3,6 +3,8 @@ title: 🏷️ 1992年活动
 weight: 7
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

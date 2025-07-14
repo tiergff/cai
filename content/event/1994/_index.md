@@ -3,6 +3,8 @@ title: 🏷️ 1994年活动
 weight: 9
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

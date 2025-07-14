@@ -3,6 +3,8 @@ title: 🏷️ 1996年活动
 weight: 11
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

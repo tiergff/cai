@@ -3,17 +3,16 @@ title: 🎙️ 活动
 weight: 1
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 🧃 果汁你好！欢迎来到 活动频道!
 
 <!--more-->
 
-### 如何食用？
-
-电脑端：左侧是目录，点击查看详情。
-
-手机端：直接点击下方**快速进入**，到具体年份里查看。
+<br>
+<hr>
 
 ### 快速进入
 
@@ -58,6 +57,9 @@ sidebar:
   {{< card link="../event/2025/" title="2025年活动" icon="archive" >}}
 {{< /cards >}}
 
+<br>
+<hr>
+
 ### 前往其他频道
 <br>
 <!-- {{< hextra/hero-button text="📺 电视节目" link="../show" >}} -->
@@ -68,6 +70,7 @@ sidebar:
 
 ### 有疑问或补充？
 
-请到公众号  **蔡哥哥的果汁家**  留言，扫描下方二维码打开公众号。
+> [!TIP]
+> 请到公众号  **蔡哥哥的果汁家**  留言，扫描下方二维码打开公众号。
 
-<img src="../qrcode.jpg">
+![](../qrcode.jpg)

@@ -3,6 +3,8 @@ title: 🏷️ 2006年活动
 weight: 21
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

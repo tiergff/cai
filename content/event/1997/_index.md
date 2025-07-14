@@ -3,6 +3,8 @@ title: 🏷️ 1997年活动
 weight: 12
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

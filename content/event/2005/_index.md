@@ -3,6 +3,8 @@ title: 🏷️ 2005年活动
 weight: 20
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

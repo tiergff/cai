@@ -3,6 +3,8 @@ title: 🏷️ 2020年活动
 weight: 35
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

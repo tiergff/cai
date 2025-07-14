@@ -37,7 +37,7 @@ categories:
   {{< card link="" title="磁带封面" image="https://tse4-mm.cn.bing.net/th/id/OIP-C.ptC2ORv6_la6Ce7aQJMhcwHaJ2?rs=1&pid=ImgDetMain" subtitle="" method="Resize" >}}
 {{< /cards >}}
 
-## 在线试听
+## 在线试听（加载慢，请等待）
 
 背弃命运
 <iframe src="https://www.opendrive.com/player/NzNfOTAwMDUyODVfeU5zY2c" height="25" width="297" style="border:0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>

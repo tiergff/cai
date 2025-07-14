@@ -3,6 +3,8 @@ title: 🏷️ 2021年活动
 weight: 36
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

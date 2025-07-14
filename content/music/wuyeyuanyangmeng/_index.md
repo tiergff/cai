@@ -24,7 +24,7 @@ categories:
 |6|珊瑚恋||6|往事不堪回首|
 
 
-## 在线试听
+## 在线试听（加载慢，请等待）
 
 爱情如迷（今天不回家）
 <iframe src="https://www.opendrive.com/player/NzNfOTAyNjE1ODRfa3FHMGo" height="25" width="297" style="border:0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>

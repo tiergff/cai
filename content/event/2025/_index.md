@@ -3,6 +3,8 @@ title: 🏷️ 2025年活动
 weight: 40
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

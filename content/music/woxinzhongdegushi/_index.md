@@ -38,7 +38,7 @@ categories:
 {{< /cards >}}
 
 
-## 在线试听
+## 在线试听（加载慢，请等待）
 
 <meting-js
     server="tencent"

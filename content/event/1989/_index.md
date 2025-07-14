@@ -3,6 +3,8 @@ title: 🏷️ 1989年活动
 weight: 4
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

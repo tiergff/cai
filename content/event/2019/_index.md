@@ -3,6 +3,8 @@ title: 🏷️ 2019年活动
 weight: 34
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

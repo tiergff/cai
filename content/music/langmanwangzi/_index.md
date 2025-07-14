@@ -41,7 +41,7 @@ categories:
 {{< /cards >}}
 
 
-## 在线试听
+## 在线试听（加载慢，请等待）
 
 蓝色的海洋
 <iframe src="https://www.opendrive.com/player/NzNfOTAxMzU0ODNfQzh3cmk" height="25" width="297" style="border:0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>

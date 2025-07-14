@@ -3,6 +3,8 @@ title: 🏷️ 2003年活动
 weight: 18
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

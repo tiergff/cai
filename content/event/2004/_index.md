@@ -3,6 +3,8 @@ title: 🏷️ 2004年活动
 weight: 19
 sidebar:
   exclude: false
+cascade:
+  type: docs
 ---
 
 ## 活动表

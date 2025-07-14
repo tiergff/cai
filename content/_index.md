@@ -15,13 +15,13 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  有史以来最全的蔡国庆资料库
+  有史以来最全的<br>蔡国庆资料库
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  你们快快转载吧！<br>蔡国庆都成资源黑洞了！<br>这里有最全的历史资料！
+  这里有最全的历史资料！<br>蔡国庆都成资源黑洞了！<br>你们快快转载吧！
 {{< /hextra/hero-subtitle >}}
 </div>
 

@@ -2,7 +2,7 @@
 baseURL: "https://tiergff.github.io"
 title: "蔡国庆资料库"
 
-enableRobotsTXT: false
+enableRobotsTXT: true
 # Parse Git commit
 enableGitInfo: false
 enableEmoji: true

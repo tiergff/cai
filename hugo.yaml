@@ -1,6 +1,6 @@
 # Configuration
-baseURL: "https://tiergff.github.io"
 title: "蔡国庆资料库"
+baseURL: "https://caiguoqing.netlify.app/"
 
 enableRobotsTXT: true
 # Parse Git commit

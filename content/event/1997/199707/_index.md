@@ -1,4 +1,5 @@
 ---
+linktitle: 香港回归系列晚会
 title: 1997年香港回归系列晚会
 weight: 10
 date: 2025-07-06

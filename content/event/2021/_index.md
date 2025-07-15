@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2021年活动
+linktitle: 2021年活动
+title: 2021年活动
 weight: 36
 sidebar:
   exclude: false

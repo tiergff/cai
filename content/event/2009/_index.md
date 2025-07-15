@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2009年活动
+linktitle: 2009年活动
+title: 2009年活动
 weight: 24
 sidebar:
   exclude: false

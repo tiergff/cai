@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 1986-1988年活动
+linktitle: 1986-1988年活动
+title: 1986-1988年活动
 weight: 3
 sidebar:
   exclude: false

@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2010年活动
+linktitle: 2010年活动
+title: 2010年活动
 weight: 25
 sidebar:
   exclude: false

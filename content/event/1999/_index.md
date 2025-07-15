@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 1999年活动
+linktitle: 1999年活动
+title: 1999年活动
 weight: 14
 sidebar:
   exclude: false

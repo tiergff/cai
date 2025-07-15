@@ -1,4 +1,5 @@
 ---
+linktitle: 1990年未知晚会
 title: 1990年未知日期晚会合集
 weight: 20
 date: 2025-07-01

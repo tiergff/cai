@@ -7,7 +7,7 @@ categories:
 
 ---
 
-**注：点击歌名打开播放器**
+**注：点击歌名打开播放器。播放器加载慢，请等待。**
 
 {{% details title="梦想的舞台" closed="true" %}}
 **此为vip歌曲，可能无法播放**
@@ -138,4 +138,8 @@ categories:
 </meting-js>
 {{% /details %}}
 
+<br>
+<hr>
+<br>
 
+{{< hextra/hero-button text="◀ 返回音乐分区 ▶ " link="../#快速进入" >}}

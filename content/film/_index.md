@@ -1,5 +1,6 @@
 ---
-title: 📽️ 影视剧
+linkTitle: 影视剧
+title: 影视剧
 weight: 3
 sidebar:
   exclude: false
@@ -7,14 +8,14 @@ cascade:
   type: docs
 ---
 
-🧃 果汁你好！欢迎来到 影视剧频道！
+{{< icon "orange" >}} 果汁你好！欢迎来到 影视剧频道！
 
 <!--more-->
 
 <br>
 <hr>
 
-### 电视剧
+## 电视剧
 
 |日期|名称|观看地址|
 |:-----:|:-----:|:-----:|
@@ -37,7 +38,7 @@ cascade:
 |2019-06-27|神犬小七（第三季）||
 
 
-### 电影
+## 电影
 
 |日期|名称|观看地址|
 |:-----:|:-----:|:-----:|
@@ -50,14 +51,14 @@ cascade:
 |2021-07-23|我们的新生活||
 |2024-05-01|人生开门红||
 
-### 话剧
+## 话剧
 
 |日期|名称|观看地址|
 |:-----:|:-----:|:-----:|
 |2004-05|生活秀||
 |2005|明星版《雷雨》|[在线观看](../film/2005/)|
 
-### 其他视频
+## 其他视频
 
 |日期|名称|观看地址|
 |:-----:|:-----:|:-----:|
@@ -76,15 +77,15 @@ cascade:
 <br>
 <hr>
 
-### 前往其他频道
+## 前往其他频道
 <br>
-{{< hextra/hero-button text="🎙️ 活动" link="../event" >}}
+{{< hextra/hero-button text="活动" link="../event" >}}
 <!-- {{< hextra/hero-button text="📺 电视节目" link="../show" >}} -->
-{{< hextra/hero-button text="🎻 音乐" link="../music" >}}
+{{< hextra/hero-button text="音乐" link="../music" >}}
 <!-- {{< hextra/hero-button text="📚 文章" link="../article" >}} -->
-{{< hextra/hero-button text="👋 关于" link="../about" >}}
+{{< hextra/hero-button text="关于" link="../about" >}}
 
-### 有疑问或补充？
+## 有疑问或补充？
 
 > [!TIP]
 > 请到公众号  **蔡哥哥的果汁家**  留言，扫描下方二维码打开公众号。

@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 1997年活动
+linktitle: 1997年活动
+title: 1997年活动
 weight: 12
 sidebar:
   exclude: false

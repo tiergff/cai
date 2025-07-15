@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2004年活动
+linktitle: 2004年活动
+title: 2004年活动
 weight: 19
 sidebar:
   exclude: false

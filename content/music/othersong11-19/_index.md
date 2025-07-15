@@ -7,7 +7,7 @@ categories:
 
 ---
 
-**注：点击歌名打开播放器**
+**注：点击歌名打开播放器。播放器加载慢，请等待。**
 
 {{% details title="军中帅哥" closed="true" %}}
 <meting-js
@@ -169,3 +169,9 @@ categories:
     id="000XxHIs3GSmUc">
 </meting-js>
 {{% /details %}}
+
+<br>
+<hr>
+<br>
+
+{{< hextra/hero-button text="◀ 返回音乐分区 ▶ " link="../#快速进入" >}}

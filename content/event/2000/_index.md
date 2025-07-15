@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2000年活动
+linktitle: 2000年活动
+title: 2000年活动
 weight: 15
 sidebar:
   exclude: false

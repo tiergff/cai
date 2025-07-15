@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2024年活动
+linktitle: 2024年活动
+title: 2024年活动
 weight: 39
 sidebar:
   exclude: false

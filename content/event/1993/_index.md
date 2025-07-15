@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 1993年活动
+linktitle: 1993年活动
+title: 1993年活动
 weight: 8
 sidebar:
   exclude: false

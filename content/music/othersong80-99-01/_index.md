@@ -7,7 +7,7 @@ categories:
 
 ---
 
-**注：点击歌名打开播放器**
+**注：点击歌名打开播放器。播放器加载慢，请等待。**
 
 {{% details title="柏油路上的战争" closed="true" %}}
 愿交通之神陪伴你
@@ -153,3 +153,9 @@ categories:
     id="0043Q1En3suufs">
 </meting-js>
 {{% /details %}}
+
+<br>
+<hr>
+<br>
+
+{{< hextra/hero-button text="◀ 返回音乐分区 ▶ " link="../#快速进入" >}}

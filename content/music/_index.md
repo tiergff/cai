@@ -1,5 +1,6 @@
 ---
-title: 🎻 音乐
+linkTitle: 音乐
+title: 音乐
 weight: 4
 sidebar:
   exclude: false
@@ -7,14 +8,14 @@ cascade:
   type: docs
 ---
 
-🧃 果汁你好！欢迎来到 音乐频道！
+{{< icon "orange" >}} 果汁你好！欢迎来到 音乐频道！
 
 <!--more-->
 
 <br>
 <hr>
 
-### 快速进入
+## 快速进入
 {{< cards cols="4" >}}
   {{< card link="../music/aidejiafa/" title="《爱的加法》" icon="music-note" >}}
   {{< card link="../music/gewanggehou2/" title="《歌王歌后2》" icon="music-note" >}}
@@ -43,15 +44,15 @@ cascade:
 <br>
 <hr>
 
-### 前往其他频道
+## 前往其他频道
 <br>
-{{< hextra/hero-button text="🎙️ 活动" link="../event" >}}
+{{< hextra/hero-button text="活动" link="../event" >}}
 <!-- {{< hextra/hero-button text="📺 电视节目" link="../show" >}} -->
-{{< hextra/hero-button text="📽️ 影视剧" link="../film" >}}
+{{< hextra/hero-button text="影视剧" link="../film" >}}
 <!-- {{< hextra/hero-button text="📚 文章" link="../article" >}} -->
-{{< hextra/hero-button text="👋 关于" link="../about" >}}
+{{< hextra/hero-button text="关于" link="../about" >}}
 
-### 有疑问或补充？
+## 有疑问或补充？
 
 > [!TIP]
 > 请到公众号  **蔡哥哥的果汁家**  留言，扫描下方二维码打开公众号。

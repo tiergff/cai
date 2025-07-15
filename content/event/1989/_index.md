@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 1989年活动
+linktitle: 1989年活动
+title: 1989年活动
 weight: 4
 sidebar:
   exclude: false

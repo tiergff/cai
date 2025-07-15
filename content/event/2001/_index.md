@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2001年活动
+linktitle: 2001年活动
+title: 2001年活动
 weight: 16
 sidebar:
   exclude: false

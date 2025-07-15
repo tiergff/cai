@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2012年活动
+linktitle: 2012年活动
+title: 2012年活动
 weight: 27
 sidebar:
   exclude: false

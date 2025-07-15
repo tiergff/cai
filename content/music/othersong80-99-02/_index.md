@@ -7,7 +7,7 @@ categories:
 
 ---
 
-**注：点击歌名打开播放器**
+**注：点击歌名打开播放器。播放器加载慢，请等待。**
 
 {{% details title="九九重阳" closed="true" %}}
 年轻的梦（蔡国庆；解晓东；那英；李玲玉）
@@ -193,3 +193,9 @@ categories:
 喀秋莎（蔡国庆；张继红）
 <iframe src="https://www.opendrive.com/player/NzNfOTAyNTUzOThfS0FDaWs" height="25" width="297" style="border:0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 {{% /details %}}
+
+<br>
+<hr>
+<br>
+
+{{< hextra/hero-button text="◀ 返回音乐分区 ▶ " link="../#快速进入" >}}

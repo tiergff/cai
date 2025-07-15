@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 1990年活动
+linktitle: 1990年活动
+title: 1990年活动
 weight: 5
 sidebar:
   exclude: false

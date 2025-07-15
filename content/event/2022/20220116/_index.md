@@ -1,4 +1,5 @@
 ---
+linktitle: TMLC腾讯音乐直播盛典
 title: 2021TMLC腾讯音乐直播盛典
 weight: 1
 date: 2025-04-13

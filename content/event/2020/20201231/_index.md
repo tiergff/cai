@@ -1,4 +1,5 @@
 ---
+linktitle: 迎冬奥相约环球跨年冰雪盛典
 title: 2021迎冬奥相约北京BRTV环球跨年冰雪盛典
 weight: 21
 date: 2025-04-15

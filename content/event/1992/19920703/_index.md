@@ -1,4 +1,5 @@
 ---
+linktitle: 1992年中国风演唱会
 title: 1992年“中国风”演唱会（CHINA POP’92）
 weight: 20
 date: 2025-07-01

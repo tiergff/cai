@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2020年活动
+linktitle: 2020年活动
+title: 2020年活动
 weight: 35
 sidebar:
   exclude: false

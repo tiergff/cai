@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2019年活动
+linktitle: 2019年活动
+title: 2019年活动
 weight: 34
 sidebar:
   exclude: false

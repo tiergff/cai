@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2022年活动
+linktitle: 2022年活动
+title: 2022年活动
 weight: 37
 sidebar:
   exclude: false

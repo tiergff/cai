@@ -7,7 +7,7 @@ categories:
 
 ---
 
-**注：点击歌名打开播放器**
+**注：点击歌名打开播放器。播放器加载慢，请等待。**
 
 
 {{% details title="牛郎织女" closed="true" %}}
@@ -196,3 +196,8 @@ categories:
 <iframe src="https://www.opendrive.com/player/NzNfOTAwMDk3MzJfQThIRnc" height="25" width="297" style="border:0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 {{% /details %}}
 
+<br>
+<hr>
+<br>
+
+{{< hextra/hero-button text="◀ 返回音乐分区 ▶ " link="../#快速进入" >}}

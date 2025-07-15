@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2025年活动
+linktitle: 2025年活动
+title: 2025年活动
 weight: 40
 sidebar:
   exclude: false

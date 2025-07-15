@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2007年活动
+linktitle: 2007年活动
+title: 2007年活动
 weight: 22
 sidebar:
   exclude: false

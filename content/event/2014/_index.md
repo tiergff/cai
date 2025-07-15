@@ -1,5 +1,6 @@
 ---
-title: 🏷️ 2014年活动
+linktitle: 2014年活动
+title: 2014年活动
 weight: 29
 sidebar:
   exclude: false

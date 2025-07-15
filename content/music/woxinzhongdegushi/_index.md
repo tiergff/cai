@@ -45,3 +45,9 @@ categories:
     type="album"
     id="001r8XLy3tjMOy">
 </meting-js>
+
+<br>
+<hr>
+<br>
+
+{{< hextra/hero-button text="◀ 返回音乐分区 ▶ " link="../#快速进入" >}}

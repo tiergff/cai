@@ -1,7 +1,7 @@
 ---
 title: 关于资料库
 weight: 8
-toc: true
+toc: false
 ---
 
 
@@ -10,7 +10,7 @@ toc: true
 资料库的文字信息收集于网络。<br>音频来自关闭多年的蔡国庆官网。<br>视频一部分是自购光盘，一部分转载于网络（已标注原视频链接）。
 {{< /callout >}}
 
-### 使用说明
+## 使用说明
 
 {{< callout type="info" >}}
 小程序记录着最全文字资料，且搜索功能完善。<br>
@@ -18,7 +18,7 @@ toc: true
 建议利用小程序搜索活动名称或日期，再到资料库里查找相关资料。
 {{< /callout >}}
 
-### 联系站长
+## 联系站长
 
 {{< callout type="error" >}}
 如有侵权请与本站站长联系，站长收到通知后会在第一时间删除侵权内容！
@@ -30,16 +30,16 @@ toc: true
 
 
 
-### 前往其他频道
+## 前往其他频道
 <br>
-{{< hextra/hero-button text="🎙️ 活动" link="../event" >}}
+{{< hextra/hero-button text="活动" link="../event" >}}
 <!-- {{< hextra/hero-button text="📺 电视节目" link="../show" >}} -->
-{{< hextra/hero-button text="📽️ 影视剧" link="../film" >}}
-{{< hextra/hero-button text="🎻 音乐" link="../music" >}}
+{{< hextra/hero-button text="影视剧" link="../film" >}}
+{{< hextra/hero-button text="音乐" link="../music" >}}
 <!-- {{< hextra/hero-button text="📚 文章" link="../article" >}} -->
 
 
-### 指路
+## 指路
 
 - [蔡老师抖音](https://www.douyin.com/user/MS4wLjABAAAAbHn3G08HwM_IuI7bnjOjPYmRXvpaMIHd2r3agvSa0HYk0bNoNrd7CMpWq013KoNQ/)
 - [蔡老师微博](https://weibo.com/u/6041616816/)

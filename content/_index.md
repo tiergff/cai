@@ -31,9 +31,10 @@ layout: hextra-home
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="🎙️ 活动（点击进入）"
+    title="活动（点击进入）"
     subtitle="蔡老师从业这么多年参加的国内外各种晚会、商演、慰问演出、校园演讲等活动视频。"
     link="event"
+    icon="zhuhe"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(225,100,25,0.15),hsla(0,0%,100%,0));"
   >}}
   <!-- {{< hextra/feature-card
@@ -43,15 +44,17 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,50,254,0.15),hsla(0,0%,100%,0));"
   >}} -->
   {{< hextra/feature-card
-    title="📽️ 影视剧（点击进入）"
+    title="影视剧（点击进入）"
     subtitle="包括蔡老师出演的电影、电视剧、音乐特辑、纪录片、广告、MTV等视频。"
     link="film"
+    icon="movie"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(235,200,59,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="🎻 音乐（点击进入）"
+    title="音乐（点击进入）"
     subtitle="从1986年至今蔡老师唱过的歌，包括发行过的、未发行的、未知来源出处的歌曲。"
     link="music"
+    icon="cd"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(110,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
   <!-- {{< hextra/feature-card
@@ -61,9 +64,10 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(50,100,205,0.15),hsla(0,0%,100%,0));"
   >}} -->
   {{< hextra/feature-card
-    title="👋 关于（点击进入）"
+    title="关于（点击进入）"
     subtitle="简单介绍一下资料站，还有资料站与小程序、公众号如何联用。"
     link="about"
+    icon="chn"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(100,255,255,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}

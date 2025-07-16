@@ -1,6 +1,6 @@
 # Configuration
 title: "蔡国庆资料库"
-baseURL: "https://caiguoqing.netlify.app/"
+baseURL: "http://localhost:1313"
 
 enableRobotsTXT: true
 # Parse Git commit

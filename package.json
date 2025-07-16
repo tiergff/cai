@@ -8,6 +8,7 @@
     "serve": "hugo server"
   },
   "devDependencies": {
+    "hugo-bin": "^0.147.7",
     "@tailwindcss/postcss": "^4.1.8",
     "postcss-cli": "^11.0.1",
     "prettier": "^3.5.3",

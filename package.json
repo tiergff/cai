@@ -1,18 +1,17 @@
 {
+  "name": "caiguoqing",
+  "version": "1.0.0",
   "scripts": {
-    "dev:theme": "hugo server --logLevel=debug --config=hugo.yaml,../dev.toml --environment=theme -D --port 1313",
-    "dev": "hugo server  --disableFastRender -D --port 1313",
-    "build:css": "npx postcss --config postcss.config.mjs --env production assets/css/styles.css -o assets/css/compiled/main.css",
-    "build": "hugo --gc --minify",
-    "create": "hugo new",
-    "serve": "hugo server"
+    "build": "./node_modules/.bin/hugo --minify",
+    "postinstall": "git submodule update --init",
+    "dev": "hugo server -D",
+    "clean": "rm -rf public",
+    "preview": "hugo server"
+  },
+  "dependencies": {
+    "hugo-extended": "^0.147.8"
   },
   "devDependencies": {
-    "hugo-extended": "^0.148.1",
-    "@tailwindcss/postcss": "^4.1.8",
-    "postcss-cli": "^11.0.1",
-    "prettier": "^3.5.3",
-    "prettier-plugin-go-template": "^0.0.15",
-    "tailwindcss": "^4.1.8"
+    "cross-env": "^7.0.3"
   }
 }

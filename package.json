@@ -1,11 +1,13 @@
 {
+  "name": "caiguoqing",
+  "version": "0.0.1",
   "scripts": {
-    "dev:theme": "hugo server --logLevel=debug --config=hugo.yaml -D --port 1313",
-    "dev": "hugo server --disableFastRender -D --port 1313",
-    "build:css": "npx postcss --config postcss.config.mjs --env production assets/css/styles.css -o assets/css/compiled/main.css",
-    "build": "hugo --gc --minify"
+    "build": "hugo --gc --minify",
+    "create": "hugo new",
+    "serve": "hugo server"
   },
   "devDependencies": {
+    "hugo-bin": "^0.148.1"
     "@tailwindcss/postcss": "^4.1.8",
     "postcss-cli": "^11.0.1",
     "prettier": "^3.5.3",

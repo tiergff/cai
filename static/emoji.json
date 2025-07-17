@@ -1,0 +1,436 @@
+{
+  "Emoji": {
+    "type": "emoji",
+    "container": [
+      { "icon": "😀", "text": "" },
+      { "icon": "😁", "text": "" },
+      { "icon": "😂", "text": "" },
+      { "icon": "😄", "text": "" },
+      { "icon": "😅", "text": "" },
+      { "icon": "😆", "text": "" },
+      { "icon": "😇", "text": "" },
+      { "icon": "😉", "text": "" },
+      { "icon": "😊", "text": "" },
+      { "icon": "🙂", "text": "" },
+      { "icon": "🙃", "text": "" },
+      { "icon": "🤣", "text": "" },
+      { "icon": "😌", "text": "" },
+      { "icon": "😍", "text": "" },
+      { "icon": "😘 ", "text": "" },
+      { "icon": "🤩 ", "text": "" },
+      { "icon": "🥰 ", "text": "" },
+      { "icon": "😜", "text": "" },
+      { "icon": "😝", "text": "" },
+      { "icon": "🤪", "text": "" },
+      { "icon": "😏", "text": "" },
+      { "icon": "😐", "text": "" },
+      { "icon": "😒", "text": "" },
+      { "icon": "🙄", "text": "" },
+      { "icon": "😳 ", "text": "" },
+      { "icon": "😡", "text": "" },
+      { "icon": "😔", "text": "" },
+      { "icon": "😴", "text": "" },
+      { "icon": "🤤", "text": "" },
+      { "icon": "😵", "text": "" },
+      { "icon": "😫", "text": "" },
+      { "icon": "😱", "text": "" },
+      { "icon": "😭", "text": "" },
+      { "icon": "🙌", "text": "" },
+      { "icon": "👍", "text": "" },
+      { "icon": "❤️", "text": "" },
+      { "icon": "🌚", "text": "" },
+      { "icon": "🌝", "text": "" },
+      { "icon": "😎", "text": "" }
+    ]
+  },
+  "方块": {
+		"type": "image",
+		"container": [
+			{
+				"text": "方块-微笑",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube.png'>"
+			},
+			{
+				"text": "方块-并不简单",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_bingbujiandan.png'>"
+			},
+			{
+				"text": "方块-闭嘴",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_bizui.png'>"
+			},
+			{
+				"text": "方块-沧桑",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_cangsang.png'>"
+			},
+			{
+				"text": "方块-打脸",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_dalian.png'>"
+			},
+			{
+				"text": "方块-狗头",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_doge.png'>"
+			},
+			{
+				"text": "方块-感动",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_gandong.png'>"
+			},
+			{
+				"text": "方块-乖",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_guai.png'>"
+			},
+			{
+				"text": "方块-咕咕",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_gugu.png'>"
+			},
+			{
+				"text": "方块-汗",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_han.png'>"
+			},
+			{
+				"text": "方块-黑人问号",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_heirenwenhao.png'>"
+			},
+			{
+				"text": "方块-滑稽",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_huaji.png'>"
+			},
+			{
+				"text": "方块-加油",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_jiayou.png'>"
+			},
+			{
+				"text": "方块-惊讶",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_jingya.png'>"
+			},
+			{
+				"text": "方块-开心",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_kaixin.png'>"
+			},
+			{
+				"text": "方块-酷",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_ku.png'>"
+			},
+			{
+				"text": "方块-困",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_kun.png'>"
+			},
+			{
+				"text": "方块-哭泣",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_kuqi.png'>"
+			},
+			{
+				"text": "方块-怒",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_nu.png'>"
+			},
+			{
+				"text": "方块-喷水",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_penshui.png'>"
+			},
+			{
+				"text": "方块-凄凉",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_qiliang.png'>"
+			},
+			{
+				"text": "方块-生气",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_shengqi.png'>"
+			},
+			{
+				"text": "方块-睡觉",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_shuijiao.png'>"
+			},
+			{
+				"text": "方块-叹气",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_tanqi.png'>"
+			},
+			{
+				"text": "方块-摊手",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_tanshou.png'>"
+			},
+			{
+				"text": "方块-吐",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_tu.png'>"
+			},
+			{
+				"text": "方块-哇",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_wa.png'>"
+			},
+			{
+				"text": "方块-委屈",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_weiqu.png'>"
+			},
+			{
+				"text": "方块-捂脸哭",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_wulianku.png'>"
+			},
+			{
+				"text": "方块-吓",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_xia.png'>"
+			},
+			{
+				"text": "方块-笑哭",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_xiaocry.png'>"
+			},
+			{
+				"text": "方块-喜欢",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_xihuan.png'>"
+			},
+			{
+				"text": "方块-学习",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_xuexi.png'>"
+			},
+			{
+				"text": "方块-晕",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_yun.png'>"
+			},
+			{
+				"text": "方块-赞",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_zan.png'>"
+			}
+    ]
+  },
+	"贴吧": {
+		"type": "image",
+		"container": [
+			{
+				"text": "贴吧-呵呵",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon.png'>"
+			},
+			{
+				"text": "贴吧-哈哈",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon2.png'>"
+			},
+			{
+				"text": "贴吧-吐舌",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon3.png'>"
+			},
+			{
+				"text": "贴吧-啊",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon4.png'>"
+			},
+			{
+				"text": "贴吧-酷",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon5.png'>"
+			},
+			{
+				"text": "贴吧-怒",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon6.png'>"
+			},
+			{
+				"text": "贴吧-汗",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon8.png'>"
+			},
+			{
+				"text": "贴吧-泪",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon9.png'>"
+			},
+			{
+				"text": "贴吧-黑线",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon10.png'>"
+			},
+			{
+				"text": "贴吧-鄙视",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon11.png'>"
+			},
+			{
+				"text": "贴吧-不高兴",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon12.png'>"
+			},
+			{
+				"text": "贴吧-真棒",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon13.png'>"
+			},
+			{
+				"text": "贴吧-财迷",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon14.png'>"
+			},
+			{
+				"text": "贴吧-疑问",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon15.png'>"
+			},
+			{
+				"text": "贴吧-阴险",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon16.png'>"
+			},
+			{
+				"text": "贴吧-吐",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon17.png'>"
+			},
+			{
+				"text": "贴吧-大小眼",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon18.png'>"
+			},
+			{
+				"text": "贴吧-委屈",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon19.png'>"
+			},
+			{
+				"text": "贴吧-花心",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon20.png'>"
+			},
+			{
+				"text": "贴吧-眯眼",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon21.png'>"
+			},
+			{
+				"text": "贴吧-笑眼",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon22.png'>"
+			},
+			{
+				"text": "贴吧-呵呵笑",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon23.png'>"
+			},
+			{
+				"text": "贴吧-太开心",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon24.png'>"
+			},
+			{
+				"text": "贴吧-滑稽",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon25.png'>"
+			},
+			{
+				"text": "贴吧-勉强",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon26.png'>"
+			},
+			{
+				"text": "贴吧-狂汗",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon27.png'>"
+			},
+			{
+				"text": "贴吧-乖",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon28.png'>"
+			},
+			{
+				"text": "贴吧-睡觉",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon29.png'>"
+			},
+			{
+				"text": "贴吧-惊哭",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon30.png'>"
+			},
+			{
+				"text": "贴吧-粗气",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon31.png'>"
+			},
+			{
+				"text": "贴吧-惊讶",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon32.png'>"
+			},
+			{
+				"text": "贴吧-喷",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon33.png'>"
+			},
+			{
+				"text": "贴吧-爱心",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon34.png'>"
+			},
+			{
+				"text": "贴吧-心碎",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon35.png'>"
+			},
+			{
+				"text": "贴吧-玫瑰",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon36.png'>"
+			},
+			{
+				"text": "贴吧-礼物",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon37.png'>"
+			},
+			{
+				"text": "贴吧-彩虹",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon38.png'>"
+			},
+			{
+				"text": "贴吧-星星月亮",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon39.png'>"
+			},
+			{
+				"text": "贴吧-咖啡",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon43.png'>"
+			},
+			{
+				"text": "贴吧-生日蛋糕",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon44.png'>"
+			},
+			{
+				"text": "贴吧-小乖",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon66.png'>"
+			},
+			{
+				"text": "贴吧-捂嘴笑",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon67.png'>"
+			},
+			{
+				"text": "贴吧-你懂的",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon68.png'>"
+			},
+			{
+				"text": "贴吧-what",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon69.png'>"
+			},
+			{
+				"text": "贴吧-酸爽",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon70.png'>"
+			},
+			{
+				"text": "贴吧-呀咩爹",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon71.png'>"
+			},
+			{
+				"text": "贴吧-笑尿",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon72.png'>"
+			},
+			{
+				"text": "贴吧-挖鼻",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon73.png'>"
+			},
+			{
+				"text": "贴吧-犀利",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon74.png'>"
+			},
+			{
+				"text": "贴吧-小红脸",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon75.png'>"
+			},
+			{
+				"text": "贴吧-懒得理",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon76.png'>"
+			},
+			{
+				"text": "贴吧-OK",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon50.png'>"
+			},
+			{
+				"text": "贴吧-沙发",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon77.png'>"
+			},
+			{
+				"text": "贴吧-卫生纸",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon78.png'>"
+			},
+			{
+				"text": "贴吧-香蕉",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon79.png'>"
+			},
+			{
+				"text": "贴吧-便便",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon80.png'>"
+			},
+			{
+				"text": "贴吧-药",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon81.png'>"
+			},
+			{
+				"text": "贴吧-红领巾",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon82.png'>"
+			},
+			{
+				"text": "贴吧-蜡烛",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon83.png'>"
+			},
+			{
+				"text": "贴吧-三道杠",
+				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon84.png'>"
+			}
+		]
+  }
+}

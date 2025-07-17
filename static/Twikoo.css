@@ -239,7 +239,8 @@
 .tk-comment {
     border-top-width: 1px;
     border-bottom-width: 1px;
-    border-spacing: 0px 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-color: rgb(229 229 229 / 0.7);
 }
 #twikoo .tk-comment .tk-replies .tk-comment {

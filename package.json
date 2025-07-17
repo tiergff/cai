@@ -9,7 +9,7 @@
     "preview": "hugo server"
   },
   "dependencies": {
-    "hugo-extended": "^0.147.8"
+    "hugo-extended": "^0.148.1"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"

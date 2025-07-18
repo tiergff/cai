@@ -1,48 +1,4 @@
 {
-  "Emoji": {
-    "type": "emoji",
-    "container": [
-      { "icon": "😀", "text": "" },
-      { "icon": "😁", "text": "" },
-      { "icon": "😂", "text": "" },
-      { "icon": "😄", "text": "" },
-      { "icon": "😅", "text": "" },
-      { "icon": "😆", "text": "" },
-      { "icon": "😇", "text": "" },
-      { "icon": "😉", "text": "" },
-      { "icon": "😊", "text": "" },
-      { "icon": "🙂", "text": "" },
-      { "icon": "🙃", "text": "" },
-      { "icon": "🤣", "text": "" },
-      { "icon": "😌", "text": "" },
-      { "icon": "😍", "text": "" },
-      { "icon": "😘 ", "text": "" },
-      { "icon": "🤩 ", "text": "" },
-      { "icon": "🥰 ", "text": "" },
-      { "icon": "😜", "text": "" },
-      { "icon": "😝", "text": "" },
-      { "icon": "🤪", "text": "" },
-      { "icon": "😏", "text": "" },
-      { "icon": "😐", "text": "" },
-      { "icon": "😒", "text": "" },
-      { "icon": "🙄", "text": "" },
-      { "icon": "😳 ", "text": "" },
-      { "icon": "😡", "text": "" },
-      { "icon": "😔", "text": "" },
-      { "icon": "😴", "text": "" },
-      { "icon": "🤤", "text": "" },
-      { "icon": "😵", "text": "" },
-      { "icon": "😫", "text": "" },
-      { "icon": "😱", "text": "" },
-      { "icon": "😭", "text": "" },
-      { "icon": "🙌", "text": "" },
-      { "icon": "👍", "text": "" },
-      { "icon": "❤️", "text": "" },
-      { "icon": "🌚", "text": "" },
-      { "icon": "🌝", "text": "" },
-      { "icon": "😎", "text": "" }
-    ]
-  },
   "方块": {
 		"type": "image",
 		"container": [
@@ -352,50 +308,6 @@
 				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon44.png'>"
 			},
 			{
-				"text": "贴吧-小乖",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon66.png'>"
-			},
-			{
-				"text": "贴吧-捂嘴笑",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon67.png'>"
-			},
-			{
-				"text": "贴吧-你懂的",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon68.png'>"
-			},
-			{
-				"text": "贴吧-what",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon69.png'>"
-			},
-			{
-				"text": "贴吧-酸爽",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon70.png'>"
-			},
-			{
-				"text": "贴吧-呀咩爹",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon71.png'>"
-			},
-			{
-				"text": "贴吧-笑尿",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon72.png'>"
-			},
-			{
-				"text": "贴吧-挖鼻",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon73.png'>"
-			},
-			{
-				"text": "贴吧-犀利",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon74.png'>"
-			},
-			{
-				"text": "贴吧-小红脸",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon75.png'>"
-			},
-			{
-				"text": "贴吧-懒得理",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon76.png'>"
-			},
-			{
 				"text": "贴吧-OK",
 				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon50.png'>"
 			},
@@ -406,14 +318,6 @@
 			{
 				"text": "贴吧-卫生纸",
 				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon78.png'>"
-			},
-			{
-				"text": "贴吧-香蕉",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon79.png'>"
-			},
-			{
-				"text": "贴吧-便便",
-				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon80.png'>"
 			},
 			{
 				"text": "贴吧-药",

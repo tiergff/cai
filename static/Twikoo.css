@@ -41,7 +41,7 @@
 /* 输入框样式 */
 .tk-input.el-textarea textarea {
     border-radius: 8px;
-    min-height: 150px !important;
+    min-height: 160px !important;
     height: auto;
     font-size: inherit;
 }
@@ -148,6 +148,20 @@
 }
 
 
+/* 隐藏没有评论 */
+.tk-comments-no {
+    display: none;
+}
+
+.tk-comments-container {
+    min-height: 0;
+}
+
+/* .tk-footer {
+    display: none;
+} */
+
+
 /* 调整emoji */
 /* #twikoo .tk-comments .OwO .OwO-body .OwO-items-show {
   margin: 5px 12px;
@@ -173,13 +187,13 @@
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(
     1
   ):before {
-  content: "请输入您的昵称😃";
+  content: "请输入您的昵称";
 }
 
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(
     2
   ):before {
-  content: "收到回复会发送到您的邮箱📧";
+  content: "收到回复后会发送至您的邮箱";
 }
 
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(
@@ -235,7 +249,7 @@
 }
 
 
-
+/* 回复分割线 */
 .tk-comment {
     border-top-width: 1px;
     padding-top: 20px;
@@ -244,4 +258,19 @@
 }
 #twikoo .tk-comment .tk-replies .tk-comment {
     box-shadow: none;
+}
+
+
+/* N条评论上方的空间 */
+.tk-comments-title {
+    margin-bottom: 0;
+    margin-top: 1.25em;
+}
+
+
+/* 表情选框排列居中 */
+.OwO .OwO-body .OwO-items-image .OwO-item {
+    margin: auto;
+    text-align: center;
+    width: inherit;
 }

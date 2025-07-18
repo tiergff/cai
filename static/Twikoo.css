@@ -4,6 +4,14 @@
     display: none;
 } */
 
+/* 隐藏评论头像并调整emoji图标位置 */
+#twikoo .tk-comments .tk-row .tk-avatar {
+    display: none;
+}
+.tk-row.actions {
+    margin-left: 0px;
+}
+
 /* 下面表情和按钮那一栏的设置 */
 /* #twikoo .tk-comments .tk-submit .tk-row.actions{
     margin-bottom: 0;
@@ -21,11 +29,12 @@
     height: 32px;
 } */
 
-/* 解决图片大小超出范围问题 */
-/* .tk-main .tk-content img {
-  max-width: 100%;
-  height: auto;
-} */
+/* 评论区添加灰色气泡 */
+#twikoo .tk-content {
+  background: rgb(235 235 235 / 60%);
+  padding: 10px 15px;
+  border-radius: 8px;
+}
 
 /* 圆角设置 */
 .tk-meta-input input {
@@ -57,6 +66,7 @@
 .tk-main .tk-submit .tk-row.actions button.el-button.tk-preview.el-button--default.el-button--small{
     display: none;
 }
+
 
 /* 分类卡片移动端个人信息卡片只显示两个 */
 @media screen and (max-width:570px) {
@@ -121,6 +131,7 @@
     padding-top: 0.75rem;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+    /* display: none; */
 }
 #twikoo .tk-comments button.el-button.tk-send.el-button--primary.el-button--small{
     font-size: inherit;
@@ -167,8 +178,14 @@
   margin: 5px 12px;
 } */
 .OwO .OwO-logo {
-    width: 1.5em;
+    /* width: 1.75em; */
+    width: 25px;
+    height: 25px;
 }
+/* .twikoo svg {
+    fill: #006BE6;
+} */
+
 #twikoo .tk-comments .OwO .OwO-body {
   /* border: var(--style-border-always) !important; */
   border-radius: 8px !important;
@@ -179,6 +196,18 @@
   top: 2.6em !important;
   /* transform: translateZ(0);
   animation: 0.3s ease 0.1s 1 normal both running donate_effcet; */
+}
+
+/* emoji表情选框排列居中 */
+.OwO .OwO-body .OwO-items-image .OwO-item {
+    margin: auto;
+    text-align: center;
+    width: inherit;
+}
+@media screen and (max-width: 600px) {
+  #twikoo .OwO-items > .OwO-item {
+    width: inherit;
+  }
 }
 
 
@@ -268,9 +297,27 @@
 }
 
 
-/* 表情选框排列居中 */
-.OwO .OwO-body .OwO-items-image .OwO-item {
-    margin: auto;
-    text-align: center;
-    width: inherit;
+/* 解决图片大小超出范围问题 */
+.tk-main .tk-content img {
+  max-width: 100%;
+  height: auto;
 }
+/* 输入评论时自动隐藏输入框背景图片 */
+.el-textarea__inner:focus {
+  background-image: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

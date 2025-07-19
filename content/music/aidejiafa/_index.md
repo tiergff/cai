@@ -27,7 +27,7 @@ categories:
 ## 专辑图片
 
 {{< cards >}}
-  {{< card link="" title="磁带图片" image="https://tse3-mm.cn.bing.net/th/id/OIP-C.5LH3wnM3c80umSWvN2Yv3wHaHb?rs=1&pid=ImgDetMain" subtitle="" method="Resize" >}}
+  {{< card link="" title="磁带图片" image="https://y.qq.com/music/photo_new/T002R300x300M000003hE5mB0skxPr_2.jpg" subtitle="" method="Resize" >}}
 {{< /cards >}}
 
 

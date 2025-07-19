@@ -34,7 +34,7 @@ categories:
 ## 专辑图片
 
 {{< cards >}}
-  {{< card link="" title="磁带封面" image="https://tse4-mm.cn.bing.net/th/id/OIP-C.ptC2ORv6_la6Ce7aQJMhcwHaJ2?rs=1&pid=ImgDetMain" subtitle="" method="Resize" >}}
+  {{< card link="" title="磁带封面" image="https://bkimg.cdn.bcebos.com/pic/279759ee3d6d55fb2eddda606d224f4a20a4dd59?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,w_504" subtitle="" method="Resize" >}}
 {{< /cards >}}
 
 ## 在线试听（加载慢，请等待）

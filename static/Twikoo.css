@@ -296,6 +296,12 @@
     margin-top: 1.25em;
 }
 
+/* 最上方的空间 */
+.tk-submit {
+    margin-bottom: 0;
+    margin-top: 0.25rem;
+}
+
 
 /* 解决图片大小超出范围问题 */
 .tk-main .tk-content img {

@@ -335,7 +335,7 @@
 				"text": "方块-赞",
 				"icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Heybox/expression_cube_zan.png'>"
 			}
-    	]
+    ]
 	},
   "猫咪": {
     "type": "image",
@@ -550,7 +550,7 @@
       }
     ]
   },
-  "B站":  {
+    "B站":{
     "type":"image",
     "container":[
       {

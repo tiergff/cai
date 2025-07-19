@@ -549,173 +549,7 @@
         "icon": "<img src='https://npm.elemecdn.com/blobcat@1.0.0/ablobcatrainbow.png'>"
       }
     ]
-  },
-  "兔斯基":{
-    "type":"image",
-    "container":[
-      {
-        "text":"tusiji-1",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0001.gif'>"
-      },
-      {
-        "text":"tusiji-2",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0002.gif'>"
-      },
-      {
-        "text":"tusiji-3",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0003.gif'>"
-      },
-      {
-        "text":"tusiji-4",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0004.gif'>"
-      },
-      {
-        "text":"tusiji-5",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0005.gif'>"
-      },
-      {
-        "text":"tusiji-6",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0006.gif'>"
-      },
-      {
-        "text":"tusiji-7",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0007.gif'>"
-      },
-      {
-        "text":"tusiji-8",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0008.gif'>"
-      },
-      {
-        "text":"tusiji-9",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0009.gif'>"
-      },
-      {
-        "text":"tusiji-10",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0010.gif'>"
-      },
-      {
-        "text":"tusiji-11",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0011.gif'>"
-      },
-      {
-        "text":"tusiji-12",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0012.gif'>"
-      },
-      {
-        "text":"tusiji-13",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0013.gif'>"
-      },
-      {
-        "text":"tusiji-14",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0014.gif'>"
-      },
-      {
-        "text":"tusiji-15",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0015.gif'>"
-      },
-      {
-        "text":"tusiji-16",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0016.gif'>"
-      },
-      {
-        "text":"tusiji-17",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0017.gif'>"
-      },
-      {
-        "text":"tusiji-18",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0018.gif'>"
-      },
-      {
-        "text":"tusiji-19",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0019.gif'>"
-      },
-      {
-        "text":"tusiji-20",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0020.gif'>"
-      },
-      {
-        "text":"tusiji-21",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0021.gif'>"
-      },
-      {
-        "text":"tusiji-22",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0022.gif'>"
-      },
-      {
-        "text":"tusiji-23",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0023.gif'>"
-      },
-      {
-        "text":"tusiji-24",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0024.gif'>"
-      },
-      {
-        "text":"tusiji-25",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0025.gif'>"
-      },
-      {
-        "text":"tusiji-26",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0026.gif'>"
-      },
-      {
-        "text":"tusiji-27",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0027.gif'>"
-      },
-      {
-        "text":"tusiji-28",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0028.gif'>"
-      },
-      {
-        "text":"tusiji-29",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0029.gif'>"
-      },
-      {
-        "text":"tusiji-30",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0030.gif'>"
-      },
-      {
-        "text":"tusiji-31",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0031.gif'>"
-      },
-      {
-        "text":"tusiji-32",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0032.gif'>"
-      },
-      {
-        "text":"tusiji-33",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0033.gif'>"
-      },
-      {
-        "text":"tusiji-34",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0034.gif'>"
-      },
-      {
-        "text":"tusiji-35",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0035.gif'>"
-      },
-      {
-        "text":"tusiji-36",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0036.gif'>"
-      },
-      {
-        "text":"tusiji-37",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0037.gif'>"
-      },
-      {
-        "text":"tusiji-38",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0038.gif'>"
-      },
-      {
-        "text":"tusiji-39",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0039.gif'>"
-      },
-      {
-        "text":"tusiji-40",
-        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tusiji/0040.gif'>"
-      }
-    ]
-  },
-  "那兔":{
+
     "type":"image",
     "container":[
       {
@@ -785,6 +619,187 @@
       {
         "text":"那兔-17",
         "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/那兔/说什么喵.png'>"
+      }
+    ]
+  },
+  "B站":  {
+    "type":"image",
+    "container":[
+      {
+        "text":"tv-doge",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/doge.gif'>"
+      },
+      {
+        "text":"tv-亲亲",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/亲亲.gif'>"
+      },
+      {
+        "text":"tv-偷笑",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/偷笑.gif'>"
+      },
+      {
+        "text":"tv-再见",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/再见.gif'>"
+      },
+      {
+        "text":"tv-发怒",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/发怒.gif'>"
+      },
+      {
+        "text":"tv-发财",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/发财.gif'>"
+      },
+      {
+        "text":"tv-可爱",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/可爱.gif'>"
+      },
+      {
+        "text":"tv-吐血",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/吐血.gif'>"
+      },
+      {
+        "text":"tv-呆",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/呆.gif'>"
+      },
+      {
+        "text":"tv-呕吐",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/呕吐.gif'>"
+      },
+      {
+        "text":"tv-困",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/困.gif'>"
+      },
+      {
+        "text":"tv-坏笑",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/坏笑.gif'>"
+      },
+      {
+        "text":"tv-大佬",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/大佬.gif'>"
+      },
+      {
+        "text":"tv-大哭",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/大哭.gif'>"
+      },
+      {
+        "text":"tv-委屈",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/委屈.gif'>"
+      },
+      {
+        "text":"tv-害羞",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/害羞.gif'>"
+      },
+      {
+        "text":"tv-尴尬",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/尴尬.gif'>"
+      },
+      {
+        "text":"tv-微笑",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/微笑.gif'>"
+      },
+      {
+        "text":"tv-思考",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/思考.gif'>"
+      },
+      {
+        "text":"tv-惊吓",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/惊吓.gif'>"
+      },
+      {
+        "text":"tv-打脸",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/打脸.gif'>"
+      },
+      {
+        "text":"tv-抓狂",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/抓狂.gif'>"
+      },
+      {
+        "text":"tv-抠鼻",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/抠鼻子.gif'>"
+      },
+      {
+        "text":"tv-斜眼笑",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/斜眼笑.gif'>"
+      },
+      {
+        "text":"tv-无奈",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/无奈.gif'>"
+      },
+      {
+        "text":"tv-晕",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/晕.gif'>"
+      },
+      {
+        "text":"tv-流汗",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/流汗.gif'>"
+      },
+      {
+        "text":"tv-流鼻血",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/流鼻血.gif'>"
+      },
+      {
+        "text":"tv-点赞",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/点赞.gif'>"
+      },
+      {
+        "text":"tv-生气",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/生气.gif'>"
+      },
+      {
+        "text":"tv-生病",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/生病.gif'>"
+      },
+      {
+        "text":"tv-疑问",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/疑问.gif'>"
+      },
+      {
+        "text":"tv-白眼",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/白眼.gif'>"
+      },
+      {
+        "text":"tv-睡着",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/睡着.gif'>"
+      },
+      {
+        "text":"tv-笑哭",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/笑哭.gif'>"
+      },
+      {
+        "text":"tv-腼腆",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/腼腆.gif'>"
+      },
+      {
+        "text":"tv-色",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/色.gif'>"
+      },
+      {
+        "text":"tv-调皮",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/调皮.gif'>"
+      },
+      {
+        "text":"tv-鄙视",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/鄙视.gif'>"
+      },
+      {
+        "text":"tv-闭嘴",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/闭嘴.gif'>"
+      },
+      {
+        "text":"tv-难过",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/难过.gif'>"
+      },
+      {
+        "text":"tv-馋",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/馋.gif'>"
+      },
+      {
+        "text":"tv-黑人问号",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/黑人问号.gif'>"
+      },
+      {
+        "text":"tv-鼓掌",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili_tv_gif/鼓掌.gif'>"
       }
     ]
   }

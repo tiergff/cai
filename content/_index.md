@@ -10,7 +10,7 @@ layout: hextra-home
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-container
-  image="image/horse.svg"
+  image="../horse.svg"
 >}}
 
 <div class="hx-mt-6 hx-mb-6">

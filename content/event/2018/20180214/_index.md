@@ -5,9 +5,6 @@ date: 2025-04-17
 ---
 
 ### 2018年中央军委慰问驻京部队老干部迎新春文艺演出
-**《未来已来》**
-{{< video-js src="http://vv.chinamil.com.cn/asset/category3/2018/02/14/asset_314054.mp4" >}}
-
 
 **完整版[（点击前往CCTV观看高清视频）](https://tv.cctv.com/2018/02/19/VIDEhWof0ywlXBXR7g3qkPk9180219.shtml)，蔡老师的节目在1小时08分55秒处。**
 

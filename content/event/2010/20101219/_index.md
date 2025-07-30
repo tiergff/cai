@@ -5,10 +5,9 @@ weight: 43
 date: 2025-06-19
 ---
 
-### 《士兵的桂冠》
+### 《当兵的历史》《士兵的桂冠》
 
-**此为完整版，蔡老师的节目在第48分38秒处。**
-{{< tencentvideo d0308i8vviy >}}
+{{< bilibili BV1sT8qzMEP2 >}}
 
 <br>
 <hr>

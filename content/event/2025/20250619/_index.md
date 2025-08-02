@@ -1,6 +1,6 @@
 ---
 title: 2025CMG暑期视听嘉年华
-weight: 13
+weight: 16
 date: 2025-06-22
 ---
 

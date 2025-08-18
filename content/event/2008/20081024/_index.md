@@ -1,7 +1,7 @@
 ---
 linktitle: 全国流行音乐盛典
 title: 全国流行音乐盛典暨中国流行音乐高峰论坛
-weight: 31
+weight: 36
 date: 2025-06-20
 ---
 

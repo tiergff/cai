@@ -6,7 +6,7 @@ date: 2025-07-01
 
 ### 《世界并不仅仅属于好人》
 
-{{< youku "XNTQ2NTAzNzY=" >}}
+{{< bilibili BV1t8YQz8EDo >}}
 
 
 <br>

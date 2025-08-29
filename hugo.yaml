@@ -76,16 +76,20 @@ menu:
       name: 音乐
       pageRef: /music
       weight: 4
-    # - identifier: book
-    #   name: 文章
-    #   pageRef: /article
-    #   weight: 5
+    - identifier: pic
+      name: 图片
+      pageRef: /pic
+      weight: 5
+    - identifier: book
+      name: 文章
+      pageRef: /article
+      weight: 6
     - identifier: about
       name: 关于
       pageRef: /about
-      weight: 6
-    - name: Search
       weight: 7
+    - name: Search
+      weight: 8
       params:
         type: search
 
